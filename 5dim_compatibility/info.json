@@ -30,6 +30,7 @@
         "? modmash",
 
         "! omnifluid",
-        "! CircuitProcessing"
+        "! CircuitProcessing",
+        "space-age >= 2.0.21"
     ]
 }

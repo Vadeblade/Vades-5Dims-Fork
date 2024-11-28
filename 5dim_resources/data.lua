@@ -19,3 +19,6 @@ require("prototypes.recipe-category")
 
 --Tech
 require("prototypes.tech")
+
+--Recycler
+require("prototypes.gen-recycler")
